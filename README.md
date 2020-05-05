@@ -1,3 +1,5 @@
-# Guessing Game Bash Script for Unix Workbench\n
-* This Make file was ran at: $(shell date +%Y-%m-%d:%H:%M:%S)\n
-* There were $(shell wc -l < guessinggame.sh) lines in guessinggame.sh\n
+Title of the project: __Peer-graded Assignment: Bash, Make, Git, and GitHub__
+\nDate make ran at:
+Tue, May  5, 2020  4:55:00 PM
+\nNumber of lines file guessinggame.sh contains:
+22
