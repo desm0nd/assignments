@@ -1,5 +1,7 @@
-Title of the project: __Peer-graded Assignment: Bash, Make, Git, and GitHub__
-\nDate make ran at:
-Tue, May  5, 2020  4:55:00 PM
-\nNumber of lines file guessinggame.sh contains:
+Title of the project : *Assignment: Git, and GitHub 
+n
+Date make ran at:
+Tue, May  5, 2020  5:04:12 PM
+Number of lines:
+n
 22
